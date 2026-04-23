@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>kate (dot) mekechuk (at) mail (dot) utoronto (dot) ca</a>
 
 profile:
   align: right
@@ -23,6 +23,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey! My name is Kate Mekechuk, and I am a current MSc student in the Mathematics Department at the University of Toronto. I am mainly interested in general relativity and partial differential equations, and specifically interested in cosmic censorship. At the moment, I am studying self-similar naked singularities with Yakov Shlapentokh-Rothman. I'm on the job market looking for positions starting in August 2026. You can reach me by email at kategmekechuk (at) gmail (dot) com. 
+Hey! My name is Kate Mekechuk, and I am a current MSc student in the Mathematics Department at the University of Toronto. 
+
+I am mainly interested in general relativity and partial differential equations, and specifically interested in cosmic censorship. At the moment, I am studying self-similar naked singularities with Yakov Shlapentokh-Rothman. 
+
+I'm on the job market looking for positions starting in August 2026. You can reach me by email at kategmekechuk (at) gmail (dot) com. 
 
 Outside of mathematics, I enjoy drawing, playing [four suit spider solitaire](https://www.solitr.com/spider-solitaire-four-suits), and exploring new places (currently in Toronto).
