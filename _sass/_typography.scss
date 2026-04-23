@@ -134,3 +134,14 @@ blockquote {
     }
   }
 }
+
+// Larger bio text
+.about-description p {
+  font-size: 1.1rem;
+}
+
+// Different font for contact info
+.more-info p {
+  font-family: 'Courier New', monospace;
+  font-size: 0.85rem;
+}
