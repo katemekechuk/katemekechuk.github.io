@@ -27,6 +27,6 @@ Hey! My name is Kate Mekechuk, and I am a current MSc student in the Mathematics
 
 I am mainly interested in general relativity and partial differential equations, and specifically interested in cosmic censorship. At the moment, I am studying self-similar naked singularities with Yakov Shlapentokh-Rothman. 
 
-I'm on the job market looking for positions starting in August 2026. You can connect with me on [LinkedIn](www.linkedin.com/in/kate-mekechuk) or reach me by email at kategmekechuk (at) gmail (dot) com. 
+I'm on the job market looking for positions starting in August 2026. You can connect with me on [LinkedIn](https://www.linkedin.com/in/kate-mekechuk) or reach me by email at kategmekechuk (at) gmail (dot) com. 
 
 Outside of mathematics, I enjoy drawing, playing [four suit spider solitaire](https://www.solitr.com/spider-solitaire-four-suits), and exploring new places (currently in Toronto).
