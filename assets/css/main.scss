@@ -37,14 +37,3 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
-
-// Larger bio text
-.about p {
-  font-size: 1.2rem;
-}
-
-// Different font for contact info
-.more-info p {
-  font-family: 'Courier New', monospace;
-  font-size: 0.85rem;
-}
