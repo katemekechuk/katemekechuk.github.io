@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /research/
 title: research
 description: mainly about general relativity. both papers and notes can be found here.
 nav: true
