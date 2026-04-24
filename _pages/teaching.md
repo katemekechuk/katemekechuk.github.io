@@ -8,7 +8,7 @@ nav_order: 4
 calendar: true
 ---
 
-## Teaching Assitant at the UofT
+## Teaching Assistant at the University of Toronto
 
 - Summer 2026
   - MAT 135: Calculus I
