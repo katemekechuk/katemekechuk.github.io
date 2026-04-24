@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "One of my favorite parts about learning is sharing my knowledge with others. Here are some activities I have done that are related to teaching.",
+          description: "one of my favorite parts about learning is sharing my knowledge with others. here are some activities I have done that are related to teaching.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
